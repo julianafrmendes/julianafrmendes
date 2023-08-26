@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @julianafrmendes
+- 👋 Hey you!! I’m @julianafrmendes
 - 👀 I’m interested in  data science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Solving business issues
 - 🍕 I eat pizza while committing
-- 
+ 
 - 📫 How to reach me julianafrmendes@gmail.com
    
 <!---
