@@ -40,7 +40,7 @@
 ## 📫 Let's Connect
 
 - ✉️ julianafrmendes@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/juliana-mendes-807861237/)  
+- 🌐 [LinkedIn]((https://www.linkedin.com/in/julianafrmendes/))  
 - 🧠 Always open to talk about <strong>data, strategy & growth</strong>
 
 ---
