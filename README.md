@@ -1,23 +1,42 @@
-# 👋 Hey there, I'm Juliana Mendes!
+<h1 align="center">👋 Hey there, I'm <strong>Juliana Mendes</strong>!</h1>
 
-🎯 **Data Scientist in Progress** | Passionate about uncovering insights & solving real business problems.
+<p align="center">
+  🎯 <em>Data Scientist in Progress</em> <br>
+  📊 Passionate about uncovering insights & solving real business problems
+</p>
 
 ---
 
 ## 💡 About Me
 
-- 👩‍💻 I'm currently diving deep into **Machine Learning**
-- 👀 Obsessed with **data**, patterns, and business impact  
-- 💞️ Open to collaborating on **projects that turn data into action**
-- 🍕 Yes, I eat **pizza while committing** – data never sleeps!
+- 👩‍💻 I'm currently diving deep into <strong>Machine Learning</strong>  
+- 👀 Obsessed with <strong>data</strong>, patterns, and business impact  
+- 💞️ Open to collaborating on <strong>projects that turn data into action</strong>  
+- 🍕 Yes, I eat <strong>pizza while committing</strong> – data never sleeps!
 
 ---
 
 ## 🛠️ Tech Stack & Interests
 
-- **Languages**: Python, SQL, JavaScript, TypeScript, C#
-- **Tools**: Jupyter, Scikit-learn, Power BI, .NET, Git, Postman
-- **Areas**: Machine Learning, BI Dashboards, A/B Testing, Business Analytics
+| 💻 Languages        | 🧰 Tools                        | 📚 Areas                         |
+|--------------------|--------------------------------|----------------------------------|
+| Python • SQL • R   | Jupyter • Scikit-learn • Power BI • n8n | Machine Learning • BI Dashboards • A/B Testing • Business Analytics |
+
+---
+
+## 📫 Let's Connect
+
+- ✉️ julianafrmendes@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/julianafrmendes/))  
+- 🧠 Always open to talk about <strong>data, strategy & growth</strong>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianafrmendes&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=julianafrmendes&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
 
 ---
 
