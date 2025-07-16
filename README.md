@@ -16,12 +16,24 @@
 
 ---
 
-## 🛠️ Tech Stack & Interests
+<h2>🛠️ Tech Stack & Interests</h2>
 
-| 💻 Languages        | 🧰 Tools                        | 📚 Areas                         |
-|--------------------|--------------------------------|----------------------------------|
-| Python • SQL • R   | Jupyter • Scikit-learn • Power BI • n8n | Machine Learning • BI Dashboards • A/B Testing • Business Analytics |
-
+<table style="width:100%; border-collapse: collapse; text-align: center; font-weight: bold;">
+  <thead>
+    <tr style="background-color: #c93384; color: white;">
+      <th>💻 Languages</th>
+      <th>🧰 Tools</th>
+      <th>📚 Areas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #e44f9c; color: white;">
+      <td>Python • SQL • R</td>
+      <td>Jupyter • Scikit-learn • Power BI • n8n</td>
+      <td>Machine Learning • BI Dashboards • A/B Testing • Business Analytics</td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 ## 📫 Let's Connect
