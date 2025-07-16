@@ -34,12 +34,13 @@
     </tr>
   </tbody>
 </table>
+
 ---
 
 ## 📫 Let's Connect
 
 - ✉️ julianafrmendes@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/julianafrmendes/))  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/juliana-mendes-807861237/)  
 - 🧠 Always open to talk about <strong>data, strategy & growth</strong>
 
 ---
@@ -49,24 +50,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=julianafrmendes&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
-
----
-
-## 📫 Let's Connect
-
-- ✉️ julianafrmendes@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/juliana-mendes-807861237/)  
-- 🧠 Always open to talk about **data, strategy & growth**
-
----
-
-> “Data is not just about numbers — it’s about people, behavior and smart decisions.”  
-> — *Juliana Mendes*
-
-
-
-   
-<!---
-julianafrmendes/julianafrmendes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
