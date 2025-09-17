@@ -1,41 +1,100 @@
-<h1 align="center">👋 Hey there, I'm <strong>Juliana Mendes</strong>!</h1>
+# 👩🏻‍💻 Juliana Mendes
 
-<p align="center">
-  🎯 <em>Data Scientist in Progress</em> <br>
-  📊 Passionate about uncovering insights & solving real business problems
-</p>
+**`Data scientist`**
 
----
+Atuo há 3 anos na área de dados e meu objetivo vai muito além de dashboards e técnicas, prefiro comunicar como os dados podem agregar nossas vidas e nos ajudar a identificar oportunidades. 
 
-## 💡 About Me
+Acredito que analistas são pontes entre informações e pessoas expandir a visão de mundo nos conecta a grandes possibilidade e o que me move é poder expandir meu conhecimento com o mundo e superar novos desafios. Gosto de falar sobre assuntos relacionados a dados e minhas descobertas na minha página do medium "[Confusion Matrix](https://medium.com/@Confusion_Matrix)"
 
-- 👩‍💻 I'm currently diving deep into <strong>Machine Learning</strong>  
-- 👀 Obsessed with <strong>data</strong>, patterns, and business impact  
-- 💞️ Open to collaborating on <strong>projects that turn data into action</strong>  
-- 🍕 Yes, I eat <strong>pizza while committing</strong> – data never sleeps!
 
----
+   
+### 🤖 Linguagens e Tecnologias
+<img 
+    align="left" 
+    alt="Python"
+    title="Pyhton" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"               
+/>
+<img 
+    align="left" 
+    alt="TensorFlow"
+    title="TensorFlow" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"          
+/>
+<img 
+    align="left" 
+    alt="Scikitlearn"
+    title="Scikitlearn" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"                
+/>
 
-<h2>🛠️ Tech Stack & Interests</h2>
+<img 
+    align="left" 
+    alt="Supabase" 
+    title="Supabase"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Postgres" 
+    title="Postgres"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"
+/>
+<img 
+    align="left" 
+    alt="Redis"
+    title="Redis" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg"          
+/>
+<img 
+    align="left" 
+    alt="ApacheAirflow"
+    title="ApacheAirflow" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg"       
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"     
+/>
 
-<table style="width:100%; border-collapse: collapse; text-align: center; font-weight: bold;">
-  <thead>
-    <tr style="background-color: #c93384; color: white;">
-      <th>💻 Languages</th>
-      <th>🧰 Tools</th>
-      <th>📚 Areas</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color: #e44f9c; color: white;">
-      <td>Python • SQL • R</td>
-      <td>Jupyter • Scikit-learn • Power BI • n8n</td>
-      <td>Machine Learning • BI Dashboards • A/B Testing • Business Analytics</td>
-    </tr>
-  </tbody>
-</table>
+<br/>
+<br/>
 
----
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=julianafrmendes&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianafrmendes&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
 ## 📫 Let's Connect
 
@@ -43,10 +102,6 @@
 - 🌐 [LinkedIn]((https://www.linkedin.com/in/julianafrmendes/))  
 - 🧠 Always open to talk about <strong>data, strategy & growth</strong>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianafrmendes&layout=compact&theme=default" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=julianafrmendes&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
+
 
