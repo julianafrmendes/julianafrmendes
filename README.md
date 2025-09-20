@@ -6,7 +6,11 @@ Atuo há 3 anos na área de dados e meu objetivo vai muito além de dashboards e
 
 Acredito que analistas são pontes entre informações e pessoas expandir a visão de mundo nos conecta a grandes possibilidade e o que me move é poder expandir meu conhecimento com o mundo e superar novos desafios. Gosto de falar sobre assuntos relacionados a dados e minhas descobertas na minha página do medium "[Confusion Matrix](https://medium.com/@Confusion_Matrix)"
 
+## 📫 Let's Connect
 
+- ✉️ julianafrmendes@gmail.com  
+- 🌐 "[LinkedIn]((https://www.linkedin.com/in/julianafrmendes/)"  
+- 🧠 Always open to talk about <strong>data, strategy & growth</strong>
    
 ### 🤖 Linguagens e Tecnologias
 <img 
@@ -99,11 +103,7 @@ Acredito que analistas são pontes entre informações e pessoas expandir a vis�
 
 
 
-## 📫 Let's Connect
 
-- ✉️ julianafrmendes@gmail.com  
-- 🌐 [LinkedIn]((https://www.linkedin.com/in/julianafrmendes/))  
-- 🧠 Always open to talk about <strong>data, strategy & growth</strong>
 
 </p>
 
