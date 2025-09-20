@@ -9,7 +9,7 @@ Acredito que analistas são pontes entre informações e pessoas expandir a vis�
 ## 📫 Let's Connect
 
 - ✉️ julianafrmendes@gmail.com  
-- 🌐 "[LinkedIn]((https://www.linkedin.com/in/julianafrmendes/)"  
+- 🌐 "[LinkedIn](https://www.linkedin.com/in/julianafrmendes/)"  
 - 🧠 Always open to talk about <strong>data, strategy & growth</strong>
    
 ### 🤖 Linguagens e Tecnologias
