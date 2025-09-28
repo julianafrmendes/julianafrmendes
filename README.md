@@ -138,9 +138,7 @@ I also occasionally **venture into writing on Medium**, sharing my thoughts and 
     title="linkedin" 
     width="20px" 
     style="padding-right:6px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"              
-/>[in/julianafrmendes](https://www.linkedin.com/in/julianafrmendes/)
-<br/> 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />[in/julianafrmendes](https://www.linkedin.com/in/julianafrmendes/)              
 🌐[Confusion Matrix](https://medium.com/@Confusion_Matrix)
 <br/>
 
