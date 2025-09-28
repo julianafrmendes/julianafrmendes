@@ -2,23 +2,29 @@
 
 **`Data scientist`**
 
-Atuo há 3 anos na área de dados e meu objetivo vai muito além de dashboards e técnicas, prefiro comunicar como os dados podem agregar nossas vidas e nos ajudar a identificar oportunidades. 
+I am data scientist  my goal goes far beyond dashboards and techniques. I prefer to communicate how data can enrich our lives and help us identify opportunities.  
 
-Acredito que analistas são pontes entre informações e pessoas expandir a visão de mundo nos conecta a grandes possibilidade e o que me move é poder expandir meu conhecimento com o mundo e superar novos desafios. Gosto de falar sobre assuntos relacionados a dados e minhas descobertas na minha página do medium "[Confusion Matrix](https://medium.com/@Confusion_Matrix)"
+I believe analysts are bridges between information and people. Expanding our worldview connects us to great possibilities, and what drives me is the chance to broaden my knowledge and tackle new challenges.  
 
-## 📫 Let's Connect
+I also occasionally **venture into writing on Medium**, sharing my thoughts and discoveries about data. "[Confusion Matrix](https://medium.com/@Confusion_Matrix)"
+<br/>
+<br/>
 
-- ✉️ julianafrmendes@gmail.com  
-- 🌐 "[LinkedIn](https://www.linkedin.com/in/julianafrmendes/)"  
-- 🧠 Always open to talk about <strong>data, strategy & growth</strong>
-   
-### 🤖 Linguagens e Tecnologias
+<p>
+<img 
+    align="left" 
+    alt="Rstudio"
+    title="Rstudio" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg"               
+/>
 <img 
     align="left" 
     alt="Python"
     title="Pyhton" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 6px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"               
 />
 <img 
@@ -26,7 +32,7 @@ Acredito que analistas são pontes entre informações e pessoas expandir a vis�
     alt="TensorFlow"
     title="TensorFlow" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 6px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"          
 />
 <img 
@@ -37,7 +43,14 @@ Acredito que analistas são pontes entre informações e pessoas expandir a vis�
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"                
 />
-
+<img 
+    align="left" 
+    alt="sqlalquemy" 
+    title="sqlalchemy"
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"         
+/>
 <img 
     align="left" 
     alt="Supabase" 
@@ -54,6 +67,7 @@ Acredito que analistas são pontes entre informações e pessoas expandir a vis�
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"
 />
+
 <img 
     align="left" 
     alt="Redis"
@@ -62,13 +76,39 @@ Acredito que analistas são pontes entre informações e pessoas expandir a vis�
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg"          
 />
+
+<img 
+    align="left" 
+    alt="Mongodb"
+    title="Mongodb" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"          
+/>
+<img 
+    align="left" 
+    alt="Apache Spark"
+    title="Apache Spark" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"          
+/>
 <img 
     align="left" 
     alt="ApacheAirflow"
     title="ApacheAirflow" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg"       
+/>
+
+<img 
+    align="left" 
+    alt="Google Cloud" 
+    title="Google Cloud"
+    width="30px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-plain.svg"     
 />
 <img 
     align="left" 
@@ -78,11 +118,40 @@ Acredito que analistas são pontes entre informações e pessoas expandir a vis�
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"     
 />
+<p>
 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 📝 My interests: 
+📚 Always open to talk about **data, strategy & growth**  
+📈 Passionate about **statistics & time series**  
+🧮 Exploring **Bayesian statistics** for smarter insights
+
+
+
+#### 🔎 Reach me
+
+<img 
+    align="left" 
+    alt="linkedin"
+    title="linkedin" 
+    width="20px" 
+    style="padding-right:6px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"              
+/>[in/julianafrmendes](https://www.linkedin.com/in/julianafrmendes/)
+<br/> 
+🌐[Confusion Matrix](https://medium.com/@Confusion_Matrix)
+<br/>
+
+<br/>
+
+
+ 
+
+
+
+## 📊 Statistics
 
 <p>
   <img 
