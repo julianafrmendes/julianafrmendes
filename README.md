@@ -1,4 +1,4 @@
-# Juliana Mendes | Analytics Engineer | AI Orchestration & Commercial Intelligence
+## Juliana Mendes | Analytics Engineer | AI Orchestration & Commercial Intelligence
 
 I am an **Analytics Engineer** specializing in **Commercial Intelligence** and high-performance data modeling. My focus is on designing and implementing data ecosystems that drive strategic decision-making, bridging the **Modern Data Stack** (dbt, SQL, Airflow) with the agility of **Generative AI** (LangGraph, LlamaIndex).
 
@@ -28,6 +28,7 @@ I develop end-to-end solutions, from architecting scalable pipelines to building
 
 ### 📝 Writing & Insights
 I explore complex data concepts and business strategy on my Medium publication:
+
 🌐 **[Confusion Matrix](https://medium.com/@Confusion_Matrix)**
 
 ### 📊 GitHub Analytics
