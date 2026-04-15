@@ -1,5 +1,5 @@
 ## Juliana Mendes 
-| Analytics Engineer | AI Orchestration & Commercial Intelligence
+| Analytics Engineer | Commercial Intelligence
 
 I am an **Analytics Engineer** specializing in **Commercial Intelligence** and high-performance data modeling. My focus is on designing and implementing data ecosystems that drive strategic decision-making, bridging the **Modern Data Stack** (dbt, SQL, Airflow) with the agility of **Generative AI** (LangGraph, LlamaIndex).
 
